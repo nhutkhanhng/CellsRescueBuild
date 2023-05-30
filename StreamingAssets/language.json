@@ -12,17 +12,22 @@
     "UI-Dangerous": "Dangerous!",
     "UI-Keep-Going": "Keep going!",
     "UI-BeCareful": "Be careful!",
-    "UI-BeCareful-1": "be careful, the virus is coming",
-    
+    "UI-BeCareful-1": "Be careful, the virus is coming",
+    "UI-Nervous-System": "Nervous system",
+    "UI-Skeletal-System": "Skeletal System",
+    "UI-CirculatoryRespiratory-System": "Circulatory & Respiratory System",
+    "UI-Digestive-System": "Digestive System",
+    "UI-Endocrine-System": "Endocrine System",
+
     "UI-1-1": "Dr. Brown has just discovered a new virus that infects many different cells in the human body.",
     "UI-1-2": "While Dr. Brown is still testing and studying this virus in his lab",
-    "UI-1-3": "one of his mischievous students - Andy found the way into the storage area and accidentally got infected with this virus.",
+    "UI-1-3": "One of his mischievous students - Andy found the way into the storage area and accidentally got infected with this virus.",
     "UI-1-4": "Dr. Brown returned to his lab and found Andy acting very strange.",
     "UI-1-5": "Seeing the door to the storage area opened, Dr. Brown immediately knew his student had contracted the virus.",
 
     "UI-1-6": "Luckily, just 2 weeks ago, Dr. Brown has finished his newest invention",
     "UI-1-6-1": "the “Minimizer” capsule that allows anyone inside the engine to be minimized to quantum size to allow him to study the human body",
-    "UI-1-7": "Dr.Brown came up with a plan, he used the \"minimizer\", Micronized himself to be able to search for the virus",
+    "UI-1-7": "Dr. Brown came up with a plan, he used the \"minimizer\", Micronized himself to be able to search for the virus",
 
     "UI-2-1": "In multicellular organisms, the body is a system of multiple interacting subsystems.",
     "UI-2-2": "These subsystems are groups of cells that work together.",
@@ -30,11 +35,13 @@
     "UI-2-4": "Let's get started!",
 
 
-    "UI-3-1": "There are trillions of cells in the human body. These cells form different types of tissue/wait:1//close/",
-    "UI-3-2": "which form all the organs and systems in the human body. /wait:1//close/",
-    "UI-3-3": "Organ systems work together to carry out the life functions of an organism /wait:1//close/",
-    "UI-3-4": "There are five systems that we need to help Andy get rid of the viruses. /wait:1//close/",
-    "UI-3-5": "Click on a system you want to explore and let our journey begin /wait:1/",
+    "UI-3-1": "There are trillions of cells in the human body. These cells form different types of tissue",
+    "UI-3-2": "which form all the organs and systems in the human body.",
+    "UI-3-3": "Organ systems work together to carry out the life functions of an organism",
+    "UI-3-4": "There are five systems that we need to help Andy get rid of the viruses.",
+    "UI-3-5": "Click on a system you want to explore and let our journey begin",
+	"UI-3-Des": "Tap for more infomation!",
+
 
     "UI-4-1-1": "Nervous tissues in an organism detect and respond to stimuli.",
     "UI-4-1-1-1": "We are in Andy's Nervous system. The nervous system responds to stimuli in the environment and controls voluntary and involuntary actions in the human body",
@@ -43,53 +50,63 @@
     "UI-4-1-4": "Look out! We found the first virus.",
     "UI-4-Tutorial": "Merge the balls to attack the virus. Your damage is equal to the amount of balls so merge as many balls as possible!",
 
-    "UI-Chat-Virus-Delicous": "I will make you sick!",
+
+	"UI-Chat-Virus-4-1-0": "Who are you?",
+	"UI-Chat-Virus-4-1-1": "Hey, little human. I'm a sneaky virus, always looking for a chance to play tricks on your body",
+	"UI-Chat-Virus-4-1-2": "Why do you want to do that? It's not nice to make people sick!",
+	"UI-Chat-Virus-4-1-3": "Washing hands, wearing masks, and getting vaccines are some of the things we can do to stay healthy",
+
+	"UI-Chat-Virus-4-2-1": "Haha, you're determined! Stay strong and healthy, take care of each other. Together, we can beat him!",
+
+	"UI-Chat-Virus-Delicous": "I will make you sick!",
+    "UI-Chat-Virus-Delicous-1": "I will make you sick!",
     "UI-Chat-DrBrown-Beat": "I will beat you!",
     "UI-Chat-DrBrown-Dangerous": "Dangerous!",
 
     "UI-KeepSearching": "Keep searching for the virus!",
-    "UI-4-1-5": "WOW! Calm down! there's nothing to be afraid of, All living organisms contain one or more cells.",
+    "UI-4-1-5": "WOW! Calm down! There's nothing to be afraid of, All living organisms contain one or more cells.",
+    "UI-4-1-6": "Organ systems work together to carry out the life functions of an organism.",
 
     "UI-4-2-1": "The skeletal system provides structural support and helps the human body move.",
     "UI-4-2-2": "We are inside Andy's arm.",
     "UI-4-2-3": "That's his arm's muscle. The muscular system helps the human body move and carry out internal body functions.",
 
 
-    "UI-4-2-MiniBattle": " Here you are! let's destroy it!",
+    "UI-4-2-MiniBattle": " Here you are! Let's destroy it!",
 
     "UI-4-2-4": "In a human body, the nervous, muscular, and skeletal systems work together to allow for body movement.",
     "UI-4-2-5": "Muscle tissues in an organism contract and relax to allow voluntary and involuntary movements.",
 
-    "UI-4-2-Boss": "Hahaha! Your journey here is over",
-    "UI-4-3-Boss": "Hahaha! Your journey here is over",
+    "UI-4-2-Boss": "Hahaha! Your journey here is over.",
+    "UI-4-3-Boss": "Hahaha! Your journey here is over.",
     "UI-4-3-1": "In a human body, the respiratory and circulatory system cycles gases between the environment and the blood stream.",
     "UI-4-3-2": "We're in the respiratory system which helps the human body take in oxygen and release carbon dioxide.",
-    "UI-4-3-3": "Here's another one, let's prepare for battle",
+    "UI-4-3-3": "Here's another one, let's prepare for battle.",
 
     "UI-4-3-4": "The circulatory system helps move blood, nutrients, and gases throughout the human body.",
 
-    "UI-4-4-0": "Currently! We are entering the circulatory system",
+    "UI-4-4-0": "Currently! We are entering the digestive system.",
     "UI-4-4-1": "In a human body, the digestive and excretory systems work together to absorb nutrients and remove wastes from the body.",
     "UI-4-4-2": "The digestive system helps the body break down food, absorb nutrients, and remove wastes from the body.",
     "UI-4-4-3": "Obtaining and processing nutrients for growth is a life function of an organism.",
 
-    "UI-4-4-4-Enemy": "we will damage your circulatory system",
+    "UI-4-4-4-Enemy": "We will damage your circulatory system.",
     "UI-4-4-Boss": "You can't scare me. Are you ready? Let's fight!",
 
 
 
     "UI-4-5": "We are inside Andy's endocrine system.",
-    "UI-4-5-1": "The endocrine system releases hormones into the bloodstream that help a human carry out life functions",
+    "UI-4-5-1": "The endocrine system releases hormones into the bloodstream that help a human carry out life functions.",
     "UI-4-5-2": "The integumentary system provides protection to the human body and helps maintain homeostasis.",
     "UI-4-5-3": "Wow! that virus is enormous!",
 
 
 
-    "UI-4-Final": "Mission complete! We has successfully cleared student’s body of the virus. It's time to get out",
+    "UI-4-Final": "Mission complete! We has successfully cleared student’s body of the virus. It's time to get out.",
 
-    "UI-7-1": "After destroying the virus that caused the disease, DrBrown healed his student",
-    "UI-7-2":  "Thank you very much! Dr.Brown",
-    "UI-8-1": "Congratulations! Thanks to you, Andy is now free from the virus",
+    "UI-7-1": "After destroying the virus that caused the disease, Dr. Brown healed his student.",
+    "UI-7-2":  "Thank you very much! Dr. Brown.",
+    "UI-8-1": "Congratulations! Thanks to you!\n Andy is now free from the virus.",
 
     "UI-Chat-Boss": "Hahaha! Your journey here is over",
     "UI-DrBrown-Reply-Boss": "That is yours",
@@ -106,15 +123,6 @@
 
     "UI-Great-Job": "Great job!",
     "UI-Excellent": "You are excellent!",
-    "UI-Continue-Journey": "Let's continue the journey!",
-
-
-    "pressContinue": "Press the next button to continue.",
-    "onePlusOne": "One + One = Two",
-    "newGame": "New Game",
-    "continue": "Continue",
-    "pantry": "Pantry",
-    "purchasePan": "Purchase Pan  <color=#F9DD3B>{0}</color>",
-    "autoSave": "...Auto Saving Complete"
+    "UI-Continue-Journey": "Let's continue the journey!"
   }
 }
