@@ -1,5 +1,7 @@
 {
   "en": {
+    "UI-Well": "Well",
+    "UI-Done": "Done!",
     "welcome": "Welcome!",
     "UI-Control-Instruction": "You can use W\\A\\S\\D to move Up\\Left\\Down\\Right movement",
     "UI-Let-Start": "Let's Start!",
